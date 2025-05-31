@@ -11,6 +11,10 @@
 ##VLAN with DHCP Type 3
 ![](https://github.com/mohancoder2k/CCNA-Training/blob/main/Day%203/VLAN%20with%20DHCP%20Type%203.png)
 
+###VLAN With Multiple Switch (Trunk Mode)
+![](https://github.com/mohancoder2k/CCNA-Training/blob/main/Day%203/VLAN%20with%20Multiple%20Switch%20trunk%20Mode.png)
+
+
 ## Day - 4 :  
 ### Static Routing  
 ![Static Routing](https://github.com/mohancoder2k/CCNA-Training/blob/main/Day%204/Static%20Routing.png?raw=true)
