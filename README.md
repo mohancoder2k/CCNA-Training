@@ -1,13 +1,13 @@
 # 🚀 Cisco CCNA Training Repository
 
 Welcome to my **Cisco CCNA Training** repository!  
-This space documents everything I’ve learned and practiced during the intensive **6-day CCNA Bootcamp** conducted by **Ethnotech Academic Solutions**.
+This space documents everything I’ve learned and practiced during the intensive **6-day CCNA Bootcamp** conducted by **Ethnotech Academic Solutions** at **Sri Manakula Vinayagar Engineering College**.
 
 > 🛠️ **Tool Used**: Cisco Packet Tracer  
 > 📅 **Duration**: 6 Days  
 > 🎯 **Focus Areas**: Networking Fundamentals, Topologies, Protocols, Routing, VLANs, DHCP, DNS, and more!
 
-Whether you're just getting started with CCNA or revisiting concepts, this repository serves as a visual and technical journal of key simulations and configurations.
+Whether you're just getting started with CCNA or revisiting concepts, this repository serves as a technical journal and visual archive of key simulations and configurations.
 
 ---
 
@@ -31,22 +31,22 @@ Whether you're just getting started with CCNA or revisiting concepts, this repos
 
 ---
 
-### 📁 FTP (File Transfer Protocol)  
+### 📁 File Transfer Protocol (FTP)  
 ![FTP](https://github.com/mohancoder2k/CCNA-Training/blob/main/Day%202/FTP.png)
 
 ---
 
-### 📧 SMTP (Simple Mail Transfer Protocol)
+### 📧 Simple Mail Transfer Protocol (SMTP)
 
 - **SMTP Setup**  
   ![SMTP](https://github.com/mohancoder2k/CCNA-Training/blob/main/Day%202/SMTP.png)
 
 - **SMTP Mailbox Preview**  
-  ![SMTP Mail Box](https://github.com/mohancoder2k/CCNA-Training/blob/main/Day%202/SMTP%20Mail%20Box.png)
+  ![SMTP Mailbox](https://github.com/mohancoder2k/CCNA-Training/blob/main/Day%202/SMTP%20Mail%20Box.png)
 
 ---
 
-### 🧠 DHCP (Dynamic Host Configuration Protocol)
+### 🧠 Dynamic Host Configuration Protocol (DHCP)
 
 - **DHCP Network Setup**  
   ![DHCP](https://github.com/mohancoder2k/CCNA-Training/blob/main/Day%202/DHCP.png)
@@ -69,7 +69,7 @@ Whether you're just getting started with CCNA or revisiting concepts, this repos
 
 ---
 
-### 🖥️ VLAN (Virtual LAN)
+### 🖥️ Virtual LAN (VLAN)
 
 - **Basic VLAN Setup**  
   ![VLAN](https://github.com/mohancoder2k/CCNA-Training/blob/main/Day%203/VLAN.png)
@@ -85,7 +85,7 @@ Whether you're just getting started with CCNA or revisiting concepts, this repos
 ## 📚 Day 4 – Static and Default Routing
 
 ### 📍 Static Routing  
-![Static Routing](https://github.com/mohancoder2k/CCNA-Training/blob/main/Day%204/Static%20Routing.png?raw=true)
+![Static Routing](https://github.com/mohancoder2k/CCNA-Training/blob/main/Day%204/Static%20Routing.png)
 
 ### 🔀 Static Routing with 3 Routers  
 ![Static Routing 3 Routers](https://github.com/mohancoder2k/CCNA-Training/blob/main/Day%204/Static%20Routing%203%20Routers.png)
@@ -95,24 +95,50 @@ Whether you're just getting started with CCNA or revisiting concepts, this repos
 
 ---
 
-### 🛣️ Default Routing (ISR Router)  
-![Deafult ISR Routing](https://github.com/mohancoder2k/CCNA-Training/blob/main/Day%204/Default%20Routing%20with%20ISR%20Router.png)
+### 🛣️ Default Routing with ISR Router  
+![Default ISR Routing](https://github.com/mohancoder2k/CCNA-Training/blob/main/Day%204/Default%20Routing%20with%20ISR%20Router.png)
 
 ---
 
-## 📌 Upcoming Days (Coming Soon…)
+## 📚 Day 5 – Dynamic Routing Protocols
 
-- **Day 5**: Dynamic Routing Protocols (RIP, OSPF)
-- **Day 6**: ACLs, NAT, and Final Project Setup
+### 🔄 RIP and OSPF Protocols  
+Configuration and simulation of RIP and OSPF routing protocols were practiced with detailed scenarios (files available in repo).
+
+---
+
+## 🎓 Day 6 – Final Project & Course Wrap-up
+
+As a final project, I virtually demonstrated the network architecture of the **Ethnotech Software Lab** where I attended this CCNA Bootcamp.  
+The setup includes:
+- 1 Server  
+- 1 Router  
+- 3 Switches  
+- 60 Client Computers  
+Configured with DHCP and DNS for automatic IP allocation and name resolution.
+
+![Ethnotech Lab](https://github.com/mohancoder2k/CCNA-Training/blob/main/Day%206/Final%20Project.png)
 
 ---
 
 ## 🙌 Credits
 
-**Training Partner**: [Ethnotech Academic Solutions](https://www.ethnotech.in)  
-**Instructor**: [Velmurugan](https://in.linkedin.com/in/velmurugan-d-a145a8266)  
-**Learner**: [Mohan](https://github.com/mohancoder2k)
+- **Training Partner**: [Ethnotech Academic Solutions](https://www.ethnotech.in)  
+- **Instructor**: [Velmurugan D](https://in.linkedin.com/in/velmurugan-d-a145a8266)  
+- **Learner**: [Mohan B](https://github.com/mohancoder2k)
 
 ---
 
-> ⭐ *Feel free to fork this repo or explore the Packet Tracer files for hands-on practice.*
+> ⭐ *Feel free to fork this repository or explore the Packet Tracer files for your hands-on networking practice.*
+
+---
+
+## 🏅 Certificate
+
+[![CCNA Certificate](https://github.com/mohancoder2k/CCNA-Training/blob/main/Certificate.png)](./Certificate.pdf)
+
+---
+
+## 📌 License
+
+This repository is intended for educational and non-commercial purposes only.
