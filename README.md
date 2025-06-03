@@ -135,7 +135,8 @@ Configured with DHCP and DNS for automatic IP allocation and name resolution.
 
 ## 🏅 Certificate
 
-[![CCNA Certificate](https://github.com/mohancoder2k/CCNA-Training/blob/main/ccna%20certificate.png)])
+[![CCNA Certificate](https://github.com/mohancoder2k/CCNA-Training/blob/main/ccna%20certificate.png)](https://github.com/mohancoder2k/CCNA-Training/blob/main/ccna%20certificate.png)
+
 
 ---
 
